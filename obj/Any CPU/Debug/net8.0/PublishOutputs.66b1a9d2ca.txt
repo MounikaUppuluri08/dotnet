@@ -1,0 +1,7 @@
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\dotnet.exe
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\dotnet.dll
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\dotnet.deps.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\dotnet.runtimeconfig.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Debug\net8.0\PubTmp\Out\dotnet.pdb

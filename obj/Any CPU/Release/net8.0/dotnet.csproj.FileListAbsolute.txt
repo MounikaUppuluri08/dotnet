@@ -1,0 +1,34 @@
+C:\C:\Users\missu\OneDrive\Desktop\dotnet\appsettings.Development.json
+C:\C:\Users\missu\OneDrive\Desktop\dotnet\appsettings.json
+C:\C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.staticwebassets.runtime.json
+C:\C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.exe
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.AssemblyInfo.cs
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.RazorAssemblyInfo.cache
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.RazorAssemblyInfo.cs
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets.build.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets.development.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets\msbuild.dotnet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets\msbuild.build.dotnet.props
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.dotnet.props
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets\msbuild.buildTransitive.dotnet.props
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\staticwebassets.pack.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\scopedcss\bundle\dotnet.styles.css
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\scopedcss\projectbundle\dotnet.bundle.scp.css
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.dll
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\refint\dotnet.dll
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.pdb
+C:\Users\missu\OneDrive\Desktop\dotnet\appsettings.Development.json
+C:\Users\missu\OneDrive\Desktop\dotnet\appsettings.json
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.staticwebassets.runtime.json
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.exe
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.deps.json
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\dotnet.genruntimeconfig.cache
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.runtimeconfig.json
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.dll
+C:\Users\missu\OneDrive\Desktop\dotnet\obj\Any CPU\Release\net8.0\ref\dotnet.dll
+C:\Users\missu\OneDrive\Desktop\dotnet\dotnet.pdb
